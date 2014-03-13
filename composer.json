@@ -1,0 +1,8 @@
+{
+	"name":        "zylor69/mailin-api-php",
+	"description": "SendInBlue API PHP",
+	"license":     "MIT",
+	"autoload": {
+		"classmap": ["GooglePlaces.php"]
+	}
+}
