@@ -3,6 +3,6 @@
 	"description": "SendInBlue API PHP",
 	"license":     "MIT",
 	"autoload": {
-		"classmap": ["GooglePlaces.php"]
+		"classmap": ["mailin.php"]
 	}
 }
